@@ -1,0 +1,29 @@
+form {
+  background-color: white;
+  margin: 250px auto;
+  width: 300px;
+  padding: 10px;
+  color: #999;
+  border-radius: 3px;
+}
+
+input {
+  width: 100%;
+  border: 1px solid black;
+}
+label {
+  display: flex;
+  color: black;
+}
+button {
+  background-color: #4caf50;
+  border-radius: 3px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.warning {
+  border: solid red 1px;
+  border-radius: 0.2em;
+}
